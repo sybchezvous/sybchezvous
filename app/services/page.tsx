@@ -14,7 +14,7 @@ const services = [
   {
     icon: '◇',
     name: 'Événementiel & réceptions',
-    desc: 'Dîners de gala, anniversaires, mariages, séminaires. Menus complets, coordination d'équipe, buffets et cocktails dînatoires.',
+    desc: "Dîners de gala, anniversaires, mariages, séminaires. Menus complets, coordination d'équipe, buffets et cocktails dînatoires.",
     price: 'Sur devis',
     detail: 'Selon nombre de convives et prestations',
     tag: 'Populaire',
@@ -22,7 +22,7 @@ const services = [
   {
     icon: '◇',
     name: 'Consulting restaurant',
-    desc: 'Audit de carte, développement de concepts, formation d'équipe, optimisation des process. Pour les restaurateurs qui veulent évoluer.',
+    desc: "Audit de carte, développement de concepts, formation d'équipe, optimisation des process. Pour les restaurateurs qui veulent évoluer.",
     price: 'À partir de 800€',
     detail: 'Par journée de consulting',
     tag: null,
@@ -38,7 +38,7 @@ const services = [
   {
     icon: '◇',
     name: 'Cours de cuisine privés',
-    desc: 'Cours à domicile pour particuliers ou petits groupes. Technique, saisonnalité, inspiration — j'adapte le contenu à votre niveau et vos envies.',
+    desc: "Cours à domicile pour particuliers ou petits groupes. Technique, saisonnalité, inspiration — j'adapte le contenu à votre niveau et vos envies.",
     price: 'À partir de 200€',
     detail: 'Par session de 3h · 2 à 6 personnes',
     tag: null,
